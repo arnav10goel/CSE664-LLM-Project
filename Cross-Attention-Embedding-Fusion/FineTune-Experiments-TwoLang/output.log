@@ -1,0 +1,102 @@
+nohup: ignoring input
+Running notebook for lang1: hindi, lang2: marathi
+Executing:   0%|          | 0/23 [00:00<?, ?cell/s]0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+Executing:   4%|▍         | 1/23 [00:00<00:20,  1.07cell/s]2024-11-18 20:08:23.525840: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-18 20:08:23.525868: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-18 20:08:23.527226: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-18 20:08:23.533271: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-18 20:08:24.294451: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Executing:  17%|█▋        | 4/23 [00:04<00:22,  1.17s/cell]Executing:  35%|███▍      | 8/23 [00:05<00:08,  1.84cell/s]Executing:  52%|█████▏    | 12/23 [00:05<00:03,  3.28cell/s]Executing:  61%|██████    | 14/23 [00:07<00:04,  1.88cell/s]Executing:  65%|██████▌   | 15/23 [00:20<00:04,  1.88cell/s]Executing:  70%|██████▉   | 16/23 [06:52<06:14, 53.57s/cell]Executing:  74%|███████▍  | 17/23 [07:07<04:44, 47.36s/cell]Executing:  78%|███████▊  | 18/23 [07:08<03:14, 38.89s/cell]Executing: 100%|██████████| 23/23 [07:09<00:00, 18.69s/cell]
+Running notebook for lang1: hindi, lang2: telugu
+Executing:   0%|          | 0/23 [00:00<?, ?cell/s]0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+Executing:   4%|▍         | 1/23 [00:00<00:20,  1.09cell/s]2024-11-18 20:15:33.471233: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-18 20:15:33.471260: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-18 20:15:33.472610: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-18 20:15:33.479152: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-18 20:15:34.242710: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Executing:  17%|█▋        | 4/23 [00:04<00:22,  1.18s/cell]Executing:  35%|███▍      | 8/23 [00:05<00:08,  1.80cell/s]Executing:  48%|████▊     | 11/23 [00:05<00:04,  2.83cell/s]Executing:  61%|██████    | 14/23 [00:08<00:05,  1.74cell/s]Executing:  70%|██████▉   | 16/23 [05:35<04:55, 42.27s/cell]Executing:  74%|███████▍  | 17/23 [05:50<03:47, 37.99s/cell]Executing:  78%|███████▊  | 18/23 [05:51<02:36, 31.38s/cell]Executing: 100%|██████████| 23/23 [05:53<00:00, 15.36s/cell]
+Running notebook for lang1: marathi, lang2: bengali
+Executing:   0%|          | 0/23 [00:00<?, ?cell/s]0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+Executing:   4%|▍         | 1/23 [00:00<00:17,  1.28cell/s]2024-11-18 20:21:26.650558: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-18 20:21:26.650589: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-18 20:21:26.651955: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-18 20:21:26.658103: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-18 20:21:27.421727: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Executing:  17%|█▋        | 4/23 [00:04<00:21,  1.16s/cell]Executing:  35%|███▍      | 8/23 [00:05<00:08,  1.85cell/s]Executing:  48%|████▊     | 11/23 [00:05<00:04,  2.91cell/s]Executing:  61%|██████    | 14/23 [00:06<00:03,  2.44cell/s]Executing:  70%|██████▉   | 16/23 [07:15<06:25, 55.10s/cell]Executing:  74%|███████▍  | 17/23 [07:30<04:52, 48.79s/cell]Executing:  78%|███████▊  | 18/23 [07:31<03:21, 40.23s/cell]Executing: 100%|██████████| 23/23 [07:32<00:00, 19.69s/cell]
+Running notebook for lang1: marathi, lang2: tamil
+Executing:   0%|          | 0/23 [00:00<?, ?cell/s]0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+Executing:   4%|▍         | 1/23 [00:00<00:18,  1.17cell/s]2024-11-18 20:28:59.548075: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-18 20:28:59.548106: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-18 20:28:59.549510: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-18 20:28:59.555781: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-18 20:29:00.318960: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Executing:  17%|█▋        | 4/23 [00:04<00:22,  1.17s/cell]Executing:  35%|███▍      | 8/23 [00:05<00:09,  1.63cell/s]Executing:  48%|████▊     | 11/23 [00:05<00:04,  2.57cell/s]Executing:  61%|██████    | 14/23 [00:07<00:03,  2.30cell/s]Executing:  70%|██████▉   | 16/23 [07:26<06:34, 56.37s/cell]Executing:  74%|███████▍  | 17/23 [07:41<05:00, 50.04s/cell]Executing:  78%|███████▊  | 18/23 [07:42<03:26, 41.24s/cell]Executing: 100%|██████████| 23/23 [07:45<00:00, 20.22s/cell]
+Running notebook for lang1: marathi, lang2: telugu
+Executing:   0%|          | 0/23 [00:00<?, ?cell/s]0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+Executing:   4%|▍         | 1/23 [00:00<00:19,  1.15cell/s]2024-11-18 20:36:44.736271: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-18 20:36:44.736302: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-18 20:36:44.737681: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-18 20:36:44.744194: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-18 20:36:45.512904: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Executing:  17%|█▋        | 4/23 [00:04<00:22,  1.18s/cell]Executing:  35%|███▍      | 8/23 [00:05<00:08,  1.83cell/s]Executing:  48%|████▊     | 11/23 [00:05<00:04,  2.88cell/s]Executing:  61%|██████    | 14/23 [00:07<00:04,  2.16cell/s]Executing:  65%|██████▌   | 15/23 [00:07<00:03,  2.37cell/s]Executing:  70%|██████▉   | 16/23 [05:53<07:01, 60.23s/cell]Executing:  74%|███████▍  | 17/23 [06:08<05:07, 51.19s/cell]Executing:  78%|███████▊  | 18/23 [06:09<03:20, 40.18s/cell]Executing: 100%|██████████| 23/23 [06:10<00:00, 16.13s/cell]
+Running notebook for lang1: tamil, lang2: bengali
+Executing:   0%|          | 0/23 [00:00<?, ?cell/s]0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+Executing:   4%|▍         | 1/23 [00:00<00:16,  1.31cell/s]2024-11-18 20:42:55.601398: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-18 20:42:55.601429: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-18 20:42:55.602791: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-18 20:42:55.608925: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-18 20:42:56.366282: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Executing:  17%|█▋        | 4/23 [00:04<00:21,  1.15s/cell]Executing:  35%|███▍      | 8/23 [00:05<00:08,  1.84cell/s]Executing:  48%|████▊     | 11/23 [00:05<00:04,  2.91cell/s]Executing:  61%|██████    | 14/23 [00:06<00:03,  2.47cell/s]Executing:  70%|██████▉   | 16/23 [07:17<06:27, 55.30s/cell]Executing:  74%|███████▍  | 17/23 [07:32<04:54, 49.05s/cell]Executing:  78%|███████▊  | 18/23 [07:33<03:22, 40.43s/cell]Executing: 100%|██████████| 23/23 [07:34<00:00, 19.78s/cell]
+Running notebook for lang1: tamil, lang2: telugu
+Executing:   0%|          | 0/23 [00:00<?, ?cell/s]0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+Executing:   4%|▍         | 1/23 [00:00<00:17,  1.23cell/s]2024-11-18 20:50:30.518628: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-18 20:50:30.518657: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-18 20:50:30.520005: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-18 20:50:30.526581: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-18 20:50:31.292553: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Executing:  17%|█▋        | 4/23 [00:04<00:22,  1.17s/cell]Executing:  35%|███▍      | 8/23 [00:05<00:09,  1.65cell/s]Executing:  48%|████▊     | 11/23 [00:05<00:04,  2.62cell/s]Executing:  61%|██████    | 14/23 [00:08<00:04,  1.85cell/s]Executing:  65%|██████▌   | 15/23 [00:08<00:03,  2.07cell/s]Executing:  70%|██████▉   | 16/23 [05:43<06:48, 58.40s/cell]Executing:  74%|███████▍  | 17/23 [05:58<04:58, 49.71s/cell]Executing:  78%|███████▊  | 18/23 [05:59<03:15, 39.03s/cell]Executing: 100%|██████████| 23/23 [06:00<00:00, 15.69s/cell]
+Running notebook for lang1: telugu, lang2: bengali
+Executing:   0%|          | 0/23 [00:00<?, ?cell/s]0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+Executing:   4%|▍         | 1/23 [00:00<00:19,  1.12cell/s]2024-11-18 20:56:31.416586: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-18 20:56:31.416613: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-18 20:56:31.417975: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-18 20:56:31.424525: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-18 20:56:32.192449: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Executing:  17%|█▋        | 4/23 [00:04<00:22,  1.18s/cell]Executing:  35%|███▍      | 8/23 [00:05<00:08,  1.82cell/s]Executing:  48%|████▊     | 11/23 [00:05<00:04,  2.86cell/s]Executing:  61%|██████    | 14/23 [00:06<00:03,  2.39cell/s]Executing:  70%|██████▉   | 16/23 [05:47<05:07, 43.86s/cell]Executing:  74%|███████▍  | 17/23 [06:04<03:57, 39.58s/cell]Executing:  78%|███████▊  | 18/23 [06:05<02:43, 32.68s/cell]Executing: 100%|██████████| 23/23 [06:06<00:00, 15.95s/cell]
+All notebooks executed successfully.
